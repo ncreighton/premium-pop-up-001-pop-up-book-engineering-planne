@@ -1,0 +1,2 @@
+# premium-pop-up-001-pop-up-book-engineering-planne
+Pop-up book engineering requires obsessive planning—tracking materials, fold angles, structural integrity, and timelines across scattered notes is chaotic. The Pop-Up Book Engineering Planner consolidates every phase of your design from concept to prototype in one organized Notion workspace.  This isn't a generic project planner—it's built specific
